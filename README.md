@@ -1,1 +1,1 @@
-# ruby_building_blocks
+An exercise from the odin project's ruby curriculum
